@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffb272;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #fac7af;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            margin: auto;
+            padding: 80px;
+            display: auto ;
+            color:  #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        main {
+            margin: 50px 0px 200px 0px;
+            padding: 20px;
+        }
+        footer {
+            background-color:  #ffb272;
+            color: white;
+            text-align: center;
+            padding: 5px 10px 5px 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
