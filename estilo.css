@@ -28,6 +28,17 @@ body {
             margin: 50px 0px 200px 0px;
             padding: 20px;
         }
+        .fonte{
+            font-size: 11px;
+            text-decoration: none;
+        }
+
+        .img{
+           background-position: center;
+            margin-top: 50px;
+            margin-bottom: 50px;
+           
+        }
         footer {
             background-color:  #ffb272;
             color: white;
